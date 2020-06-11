@@ -1,4 +1,4 @@
-module github.com/dariopb/gosense
+module github.com/tmaxxrox97/gosense
 
 go 1.12
 
